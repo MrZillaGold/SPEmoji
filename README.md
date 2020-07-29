@@ -6,6 +6,8 @@
   🎨 Minecraft texture pack with emoji for chat
   <br>
   <br>
+  <a href="https://www.curseforge.com/minecraft/texture-packs/sp-emoji">Instruction, more information & avaible emojis</a>
+  <br>
   <br>
   <details>
     <summary>Example</summary>
